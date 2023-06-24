@@ -1,0 +1,100 @@
+NAME,BRAND,UNIT,CATEGORY,SUB-CATEGORY,SKU (Leave blank to auto generate sku),BARCODE TYPE,MANAGE STOCK (1=yes 0=No),ALERT QUANTITY,EXPIRES IN,EXPIRY PERIOD UNIT (months/days),APPLICABLE TAX,Selling Price Tax Type (inclusive or exclusive),PRODUCT TYPE (single or variable),VARIATION NAME (Keep blank if product type is single),VARIATION VALUES (| seperated values & blank if product type if single),PURCHASE PRICE (Including tax),PURCHASE PRICE (Excluding tax),PROFIT MARGIN,SELLING PRICE,OPENING STOCK,LOCATION,EXPIRY DATE,ENABLE IMEI OR SERIAL NUMBER(1=yes 0=No),WEIGHT,RACK,ROW,POSITION,IMAGE,PRODUCT DESCRIPTION,CUSTOM FIELD 1,CUSTOM FIELD 2,CUSTOM FIELD 3,CUSTOM FIELD 4,NOT FOR SELLING(1=yes 0=No),PRODUCT LOCATIONS
+White-PK Colourants,,pieces,Colourants,,PK ,,1,1,,,VAT,inclusive,SINGLE,,,2064.8,,,0,1,Mk alpha paints,,,,,,,,,,,,,1,Mk alpha paints
+Black-PB Colourants,,pieces,Colourants,,PB ,,1,1,,,VAT,inclusive,SINGLE,,,1113.6,,,0,5,Mk alpha paints,,,,,,,,,,,,,1,Mk alpha paints
+Medium Yellow-PQ Colourants,,pieces,Colourants,,PQ ,,1,1,,,VAT,inclusive,SINGLE,,,6322,,,0,1,Mk alpha paints,,,,,,,,,,,,,1,Mk alpha paints
+Permanent red-PH Colourants,,pieces,Colourants,,PH,,1,1,,,VAT,inclusive,SINGLE,,,4060,,,0,1,Mk alpha paints,,,,,,,,,,,,,1,Mk alpha paints
+Phthalo green-PD Colourants,,pieces,Colourants,,PD ,,1,1,,,VAT,inclusive,SINGLE,,,1322.4,,,0,3,Mk alpha paints,,,,,,,,,,,,,1,Mk alpha paints
+Phthalo blue-PE Colourants,,pieces,Colourants,,PE ,,1,1,,,VAT,inclusive,SINGLE,,,1102,,,0,1,Mk alpha paints,,,,,,,,,,,,,1,Mk alpha paints
+Bright red-PU Colourants,,pieces,Colourants,,PU ,,1,1,,,VAT,inclusive,SINGLE,,,4002,,,0,3,Mk alpha paints,,,,,,,,,,,,,1,Mk alpha paints
+Raw amber-PL Colourants,,pieces,Colourants,,PL ,,1,1,,,VAT,inclusive,SINGLE,,,1078.8,,,0,1,Mk alpha paints,,,,,,,,,,,,,1,Mk alpha paints
+Bright yellow-PP Colourants,,pieces,Colourants,,PP ,,1,1,,,VAT,inclusive,SINGLE,,,3526.4,,,0,1,Mk alpha paints,,,,,,,,,,,,,1,Mk alpha paints
+Yellow oxide-PC Colourants,,pieces,Colourants,,PC ,,1,1,,,VAT,inclusive,SINGLE,,,1635.6,,,0,1,Mk alpha paints,,,,,,,,,,,,,1,Mk alpha paints
+Red oxide-PF Colourants,,pieces,Colourants,,PF ,,1,1,,,VAT,inclusive,SINGLE,,,1670.4,,,0,2,Mk alpha paints,,,,,,,,,,,,,1,Mk alpha paints
+Violet-PJ Colourants,,pieces,Colourants,,PJ ,,1,1,,,VAT,inclusive,SINGLE,,,2030,,,0,2,Mk alpha paints,,,,,,,,,,,,,1,Mk alpha paints
+Margenta-PI Colourants,,pieces,Colourants,,PI ,,1,1,,,VAT,inclusive,SINGLE,,,2575.2,,,0,2,Mk alpha paints,,,,,,,,,,,,,1,Mk alpha paints
+HS Phthalo green-PR,,pieces,Colourants,,PR,,1,1,,,VAT,inclusive,SINGLE,,,3306,,,0,2,Mk alpha paints,,,,,,,,,,,,,1,Mk alpha paints
+HS phthalo blue-PV,,pieces,Colourants,,PV,,1,1,,,VAT,inclusive,SINGLE,,,2772.4,,,0,2,Mk alpha paints,,,,,,,,,,,,,1,Mk alpha paints
+Bright orange-PG,,pieces,Colourants,,PG,,1,1,,,VAT,inclusive,SINGLE,,,2958,,,0,1,Mk alpha paints,,,,,,,,,,,,,1,Mk alpha paints
+Silk,,pieces,Silk,,W2-silk,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,640.9|2070.6|10451.6,,,750|2450|12250,14|31|10,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Silk,,pieces,Silk,,WO-silk,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,690.2|2169.2|10846,,,750|2450|12250,10|0|0,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Silk,,pieces,Silk,,Base E-silk,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,542.3|1775|8627.5,,,750|2450|12250,8|29|4,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Supergloss,,pieces,Supergloss,,W2-supergloss,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,739.5|2366.4,,,850|2850,10|23,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Supergloss,,pieces,Supergloss,,W3-supergloss,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,640.9|2119.9,,,850|2850,3|5,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Supergloss,,pieces,Supergloss,,WO-supergloss,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,788.8|2563.6,,,850|2850,2|1,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Supergloss,,pieces,Supergloss,,Base E-supergloss,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,542.3|1774.8,,,850|2850,35|20,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Weather guard,,pieces,Weather guard,,W2-weatherguard,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,739.5|2366.4|11685.5,,,850|2900|14750,4|15|0,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Weather guard,,pieces,Weather guard,,WO-weatherguard,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,788.8|2112.9|12768.7,,,850|2900|14750,5|0|0,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Weather guard,,pieces,Weather guard,,Base E-weather guard,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,591.6|1972|9613.5,,,850|2900|14750,5|10|10,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Weather guard extreme,,pieces,Weather guard extreme,,W2  Weather guard extreme,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,788.8|2415.7|11585.5,,,850|2900|14750,7|4|10,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Weather guard extreme,,pieces,Weather guard extreme,,WO Weather guard extreme,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,739.5|2612.9|13804,,,850|2900|14750,5|4|1,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Weather guard extreme,,pieces,Weather guard extreme,,Base E Weather guard extreme,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,640.9|1972|11092.5,,,850|2900|14750,5|4|0,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Silicon Exterior Protection,,pieces,Silicon Exterior Protection,,W2 Weather guard extreme,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,690.2|2366.4|12818,,,850|2900|14750,2|13|0,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Silicon Exterior Protection,,pieces,Silicon Exterior Protection,,WO Weather guard extreme,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,739.5|2415.7|13311,,,850|2900|14750,0|4|0,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Silicon Exterior Protection,,pieces,Silicon Exterior Protection,,Base E Weather guard extreme,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,591.6|2169.2|11092.5,,,850|2900|14750,0|2|0,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Eggshell,,pieces,Eggshell,,WO Eggshell,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,887.4|3007.3,,,1000|3100,0|2,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Eggshell,,pieces,Eggshell,,W2  Eggshell,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,936.7|2810.1,,,1000|3100,0|0,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Eggshell,,pieces,Eggshell,,Base E  Eggshell,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,739.5|2317.1,,,1000|3100,0|0,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Eggshell,,pieces,Eggshell,,W3  Eggshell,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,838.1|2612.9,,,1000|3100,0|0,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Vinyl matt,,pieces,Vinyl matt,,W2 Vinyl matt,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,542.3|2070.6|9860,,,700|2350|11750,13|4|0,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Vinyl matt,,pieces,Vinyl matt,,WO Vinyl matt,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,591.6|2119.9|10599.6,,,700|2350|11750,3|0|0,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Vinyl matt,,pieces,Vinyl matt,,Base E Vinyl matt,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,493|1676.2|8134.5,,,700|2350|11750,8|12|2,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Wall Cover,,pieces,Wall Cover,,W2 Wall Cover,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,271.1|936.7|3204.5,,,400|1100|4100,0|0|41,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Wall Cover,,pieces,Wall Cover,,WO Wall Cover,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,271.1|936.7|3796.1,,,400|1100|4100,0|0|0,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Wall Cover,,pieces,Wall Cover,,Soft white Wall Cover,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,271.1|936.7|3894.7,,,400|1100|4100,0|0|0,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Wall Cover,,pieces,Wall Cover,,Cream Wall Cover,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,271.1|936.7|3894.7,,,400|1100|4100,0|0|0,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Wall Cover,,pieces,Wall Cover,,White Wall Cover,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,271.1|936.7|3894.7,,,400|1100|4100,20|11|0,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Budget Emulsion,,pieces,Budget Emulsion,,White Budget Emulsion,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,177.48|493|1922.7,,,300|600|2100,9|5|18,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Budget Emulsion,,pieces,Budget Emulsion,,Soft white  Budget Emulsion,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,177.48|493|1922.7,,,300|600|2100,0|1|8,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Budget Emulsion,,pieces,Budget Emulsion,,Cream Budget Emulsion,,1,1,,,VAT,inclusive,variable,Litres,1L|4L|20L,177.48|493|1922.7,,,300|600|2100,0|1|0,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Black Board ,,pieces,Black Board ,,Black Board Paint,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,690.2|2612.9,,,900|3200,6|2,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Black Bituminous,,pieces,Black Bituminous,,Black Bituminous,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,621.18|2041.02,,,800|2500,8|4,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+White Road Marking,,pieces,Road Marking,,White Road Marking,,1,1,,,VAT,inclusive,SINGLE,,,3934.14,,,4800,2,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Yellow Road Marking,,pieces,Road Marking,,Yellow Road Marking,,1,1,,,VAT,inclusive,SINGLE,,,4249.66,,,5100,1,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Black Road Marking,,pieces,Road Marking,,Black Road Marking,,1,1,,,VAT,inclusive,SINGLE,,,3934.14,,,4800,2,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Hi Opacity Universal undercoat,,pieces,Universal undercoat,,Hi Opacity Universal undercoat,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,828.24|2741.08,,,1000|3100,4|5,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+White Fast Dry,,pieces,Fast Dry,,White Fast Dry,,1,1,,,VAT,inclusive,SINGLE,,,2326.96,,,2700,3,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Black Fast Dry,,pieces,Fast Dry,,Black Fast Dry,,1,1,,,VAT,inclusive,single,,,2326.96,,,2700,0,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+White Budget Gloss,,pieces,Budget Gloss,,White Budget Gloss,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,325.38|936.7,,,400|1150,7|10,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Black Budget Gloss,,pieces,Budget Gloss,,Black Budget Gloss,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,345.1|986,,,450|1200,5|10,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+True Blue Budget Gloss,,pieces,Budget Gloss,,True Blue Budget Gloss,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,345.1|986,,,450|1200,0|2,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Bermuda Blue Budget Gloss,,pieces,Budget Gloss,,Bermuda Blue Budget Gloss,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,345.1|986,,,450|1200,0|2,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Red Oxide Metal Primer,,pieces,Primer,,Red Oxide Metal Primer,,1,1,,,VAT,inclusive,SINGLE,,,1498.72,,,1800,4,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Grey Oxide Metal Primer,,pieces,Primer,,Grey Oxide Metal Primer,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,384.54|1252.22,,,500|1550,3|5,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Budget Clear Vanish,,pieces,Clear Vanish,,Budget Clear Vanish,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,433.84|1735.36,,,550|2100,6|14,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Roof Paint Budget Red Oxide,,pieces,Roof Paint,,Roof Paint Budget Red Oxide,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,364.82|1291.66,,,450|1550,0|8,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Budget Undercoat,,pieces,Budget Undercoat,,Budget Undercoat,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,522.58|2317.1,,,650|2800,1|10,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Floor paint Premium Red Oxide,,pieces,Floor Paint,,Floor paint Premium Red Oxide,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,926.84|2819.96,,,1200|3400,1|3,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Floor paint Budget ,,pieces,Floor Paint,,Floor paint Budget ,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,364.82|1400.12,,,450|1700,3|2,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Aluminox,,pieces,Aluminox,,Aluminox,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,936.7|3312.96,,,1200|4000,3|1,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+stone guard,,pieces,stone guard,,Stone guard,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,739.5|2336.82,,,900|2850,6|22,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Dampseal,,pieces,Dampseal,,Dampseal,,1,1,,,VAT,inclusive,SINGLE,,,3352.4,,,3800,3,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Sanding Sealer,,pieces,Sanding Sealer,,Sanding Sealer,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,709.92|2277.66,,,850|2700,4|3,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Milti-Purpose Varnish,,pieces,Milti-Purpose Varnish,,Milti-Purpose Clear Varnish,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,650.76|2119.9,,,800|2550,6|4,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Woodseal Polygloss varnish,,pieces,Woodseal,,Woodseal Polygloss varnish,,1,1,,,VAT,inclusive,variable,Litres,1L|4L,1035.3|3036.88,,,1100|3600,2|3,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Mahogany(Interior),,pieces,Woodcare,,Mahogany(Interior),,1,1,,,VAT,inclusive,variable,Litres,1L|5L,670.48|3105.9,,,850|3800,5|1,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Walnut(Interior),,pieces,Woodcare,,Walnut(Interior),,1,1,,,VAT,inclusive,variable,Litres,1L|5L,670.48|3105.9,,,850|3800,0|0,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Teak 03(Interior),,pieces,Woodcare,,Teak 03(Interior),,1,1,,,VAT,inclusive,variable,Litres,1L|5L,670.48|3105.9,,,850|3800,0|1,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Pine 02(Interior),,pieces,Woodcare,,Pine 02(Interior),,1,1,,,VAT,inclusive,variable,Litres,1L|5L,670.48|3105.9,,,850|3800,0|1,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Dark Oak,,pieces,Woodcare,,Dark Oak,,1,1,,,VAT,inclusive,variable,Litres,1L|5L,670.48|3105.9,,,850|3800,1|2,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Anteak Oil,,pieces,Woodcare,,Anteak Oil,,1,1,,,VAT,inclusive,variable,Litres,1L|5L,670.48|3105.9,,,850|3800,2|2,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Mahogany(Exterior),,pieces,Woodcare,,Mahogany(Exterior),,1,1,,,VAT,inclusive,variable,Litres,1L|5L,729.64|3470.72,,,900|4200,2|2,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Walnut(Exterior),,pieces,Woodcare,,Walnut(Exterior),,1,1,,,VAT,inclusive,variable,Litres,1L|5L,729.64|3470.73,,,900|4200,2|2,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Teak 03(Exterior),,pieces,Woodcare,,Teak 03(Exterior),,1,1,,,VAT,inclusive,variable,Litres,1L|5L,729.64|3470.74,,,900|4200,2|4,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Pine 02(Exterior),,pieces,Woodcare,,Pine 02(Exterior),,1,1,,,VAT,inclusive,variable,Litres,1L|5L,729.64|3470.75,,,900|4200,2|2,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Paint remover,,pieces,Paint remover,,Paint Remover ,,1,1,,,VAT,inclusive,variable,Litres,1L|5L,571.88|2741.08,,,700|3300,4|0,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Standard (Plascon) thinner,,pieces,Thinner,,Standard (Plascon) thinner,,1,1,,,VAT,inclusive,variable,Litres,1L|5L,345|0,,,400|0,10|0,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Thinning for roadmarking,,pieces,Thinner,,Thinning for roadmarking,,1,1,,,VAT,inclusive,variable,Litres,1L|5L,493|1902.98,,,600|2300,2|0,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Standard thinner ordinary,,pieces,Thinner,,Standard thinner ordinary,,1,1,,,VAT,inclusive,variable,Litres,1L|5L,0|850,,,0|1400,0|6,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+White spirit,,pieces,Thinner,,White spirit,,1,1,,,VAT,inclusive,variable,Litres,1L|5L,210|850,,,250|1100,3|7,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Turpentine,,pieces,Turpentine,,Turpentine,,1,1,,,VAT,inclusive,variable,Litres,1L|5L,180|800,,,300|1350,7|3,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Graffiatto,,pieces,Graffiatto,,Graffiatto,,1,1,,,VAT,inclusive,Variable,Litres,1.5mm|2.5mm,3845.4|3845.4,,,4600|4600,12|10,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Skimmax,,pieces,Skimmax,,J.K Skimmax,,1,1,,,VAT,inclusive,Single,,,1160,,,1350,38,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Brush,,pieces,Brush,,Premium Brush,,1,1,,,VAT,inclusive,Variable,Brush,"2""|4""|6""",120|225|370,,,250|350|450,18|12|5,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Brush,,pieces,Brush,,Economy brush,,1,1,,,VAT,inclusive,Variable,Brush,"2""|4""|6""",40|100|130,,,100|150|200,0|3|7,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Rollers,,pieces,Rollers,,Rollers,,1,1,,,VAT,inclusive,Single,,,130,,,250,3,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Sandpaper,,pieces,Sandpaper,,Sandpaper,,1,1,,,VAT,inclusive,Variable,Sandpaper,p100|p120,1450|1450,,,1900|1900,4|3,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Masking Tape,,pieces,Tape,,Masking Tape,,1,1,,,VAT,inclusive,single,,,25,,,100,41,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Scrappers ,,pieces,Scrappers,,Scrappers ,,1,1,,,VAT,inclusive,variable,Scrappers,Big|Small,0|0,,,0|0,13|13,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Wire brush,,pieces,brush,,Wire brush,,1,1,,,VAT,inclusive,Single,,,80,,,150,5,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Fibre Steel,,pieces,Fibre steel,,Fibre Steel,,1,1,,,VAT,inclusive,Single,,,280,,,350,10,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
+Glitters,,pieces,Glitters,,Glitters,,1,1,,,VAT,inclusive,Variable,Glitters,Silver|Gold,200|200,,,350|350,3|2,Mk alpha paints,,,,,,,,,,,,,,Mk alpha paints
